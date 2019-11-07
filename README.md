@@ -1,2 +1,2 @@
-# Radyo-Dalgalar-Kullan-larak-Yer-Alt-Maden-Ocag-nda-Calisan-Madencilerin-izlenmesi
+# Radyo-Dalgalar-Kullanilarak-Yer-Alt-Maden-Ocaginda-Calisan-Madencilerin-izlenmesi
 Monitoring of miner by RF signal
